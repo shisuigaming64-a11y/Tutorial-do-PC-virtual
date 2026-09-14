@@ -1,5 +1,5 @@
-  workflow_dispatch:
-    inputs:
+  workflow_dispatch: 1
+    inputs: 1
       instance_number:
         description: 'Instance Number (1-10)'
         required: true
